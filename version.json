@@ -1,6 +1,6 @@
 {
-  "versionCode": 415,
-  "versionName": "4.15",
-  "apkUrl": "https://github.com/sztoker/sztmap-releases/releases/download/v4.15/SZTMAP_2026V4.15.apk",
-  "nelerYeni": "• Veritabanı yedekleme sistemi geliştirildi\n• Harita önbelleği yönetimi iyileştirildi"
+  "versionCode": 416,
+  "versionName": "4.16",
+  "apkUrl": "https://github.com/sztoker/sztmap-releases/releases/download/v4.16/SZTMAP_2026V4.16.apk",
+  "nelerYeni": "• Ekip konum takibi eklendi\n• Açılış sırasındaki bazen yaşanan kararsızlık düzeltildi"
 }
