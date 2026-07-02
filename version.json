@@ -1,6 +1,6 @@
 {
-  "versionCode": 425,
-  "versionName": "4.25",
-  "apkUrl": "https://github.com/sztoker/sztmap-releases/releases/download/v4.25/SZTMAP_2026V4.25.apk",
+  "versionCode": 426,
+  "versionName": "4.251",
+  "apkUrl": "https://github.com/sztoker/sztmap-releases/releases/download/v4.251/SZTMAP_2026V4.251.apk",
   "nelerYeni": "• Ekip konum takibine durum eklendi\n• Konum paylaş ile gönderilen linklerin açılması sağlandı\n• Karnelerin Pdf olarak paylaşımı eklendi"
 }
