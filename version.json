@@ -1,6 +1,6 @@
 {
-  "versionCode": 426,
-  "versionName": "4.251",
-  "apkUrl": "https://github.com/sztoker/sztmap-releases/releases/download/v4.251/SZTMAP_2026V4.251.apk",
-  "nelerYeni": "• Ekip konum takibine durum eklendi\n• Konum paylaş ile gönderilen linklerin açılması sağlandı\n• Karnelerin Pdf olarak paylaşımı eklendi"
+  "versionCode": 430,
+  "versionName": "4.30",
+  "apkUrl": "https://github.com/sztoker/sztmap-releases/releases/download/v4.30/SZTMAP_2026V4.30.apk",
+  "nelerYeni": "• Bazı hatalar düzeltildi ve iyileştirmeler yapıldı\n• Mesafe ve alan ölçümü eklendi\n• Noktaya giderken sesli not ekleme, ses ile ağaç girişi, manuel notlara ses ile açıklama ekleme özellikleri eklendi"
 }
