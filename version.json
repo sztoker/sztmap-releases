@@ -1,6 +1,6 @@
 {
-  "versionCode": 430,
-  "versionName": "4.30",
-  "apkUrl": "https://github.com/sztoker/sztmap-releases/releases/download/v4.30/SZTMAP_2026V4.30.apk",
-  "nelerYeni": "• Bazı hatalar düzeltildi ve iyileştirmeler yapıldı\n• Mesafe ve alan ölçümü eklendi\n• Noktaya giderken sesli not ekleme, ses ile ağaç girişi, manuel notlara ses ile açıklama ekleme özellikleri eklendi"
+  "versionCode": 431,
+  "versionName": "4.31",
+  "apkUrl": "https://github.com/sztoker/sztmap-releases/releases/download/v4.31/SZTMAP_2026V4.31.apk",
+  "nelerYeni": "• İz kaydı uzadıkça performans kaybına neden oluyordu. Bu nedenle izkaydının gösterimi değiştirildi."
 }
