@@ -1,6 +1,6 @@
 {
-  "versionCode": 431,
-  "versionName": "4.31",
-  "apkUrl": "https://github.com/sztoker/sztmap-releases/releases/download/v4.31/SZTMAP_2026V4.31.apk",
-  "nelerYeni": "• İz kaydı uzadıkça performans kaybına neden oluyordu. Bu nedenle izkaydının gösterimi değiştirildi."
+  "versionCode": 432,
+  "versionName": "4.32",
+  "apkUrl": "https://github.com/sztoker/sztmap-releases/releases/download/v4.32/SZTMAP_2026V4.32.apk",
+  "nelerYeni": "• Nokta katmanlarında kaynak görünümü performansı iyileştirildi.\n• Poligon gösteriminde ve etiketlendirilmesinde ince ayarlar yapıldı."
 }
